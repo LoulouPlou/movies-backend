@@ -42,5 +42,4 @@ build/
 ### Maven Wrapper related files ###
 mvnw
 mvnw.cmd
-mongo-seed
 .mvn
